@@ -1,3 +1,5 @@
+### The Capability of this model was not too much, so needed a lot of improvement - see Vinci 2.0
+
 # Vinci-Creator
 A first step towards creativity in Robots
 
